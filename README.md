@@ -28,4 +28,5 @@ for you reviewer.
 ### Deliverables:
 
 -- Yelp_Data_Analysis.sql (includes all SQL code and comments used to answer questions and provide context)
+   -- outputs provided in file as well
 -- YelpDatabaseSchema.png (provides ER diagram of database used for querying/extracting)
