@@ -24,3 +24,8 @@ to copy and paste your answers. If you are going to use Word or some other page 
 application, just be careful to make sure your answers and code are lined appropriately.
 In this case, you may want to save as a PDF to ensure your formatting remains intact
 for you reviewer.
+
+### Deliverables:
+
+-- Yelp_Data_Analysis.sql (includes all SQL code and comments used to answer questions and provide context)
+-- YelpDatabaseSchema.png (provides ER diagram of database used for querying/extracting)
